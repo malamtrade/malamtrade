@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="assets/malamtrade-hero.png" alt="Malamtrade.com - Modern Trading Platform" width="100%">
+  <img src="https://github.com/malamtrade/malamtrade/blob/main/Malamtrade.png?raw=true" alt="Malamtrade.com - Modern Trading Platform" width="100%">
 
 </p>
 
