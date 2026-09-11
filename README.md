@@ -15,7 +15,17 @@ Modern access to cryptocurrency and global stock markets through a simple and us
 
 <p align="center">
 
-<a href="https://malamtrade.com/">Website</a> • <a href="https://github.com/malamtrade">GitHub</a> • <a href="https://malamtrade.com/">Trading Platform</a>
+<a href="https://malamtrade.com/">
+  <img src="https://img.shields.io/badge/Website-0EA5E9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+</a>
+
+<a href="https://github.com/malamtrade">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="https://malamtrade.com/">
+  <img src="https://img.shields.io/badge/Trading%20Platform-2563EB?style=for-the-badge&logo=tradingview&logoColor=white" alt="Trading Platform">
+</a>
 
 </p>
 
